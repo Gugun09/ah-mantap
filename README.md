@@ -1,4 +1,4 @@
-# Auto Installer VPS By YakkoXCode
+# Auto Installer VPS By crot
 
 Langkah 1 :
 
@@ -8,28 +8,8 @@ Langkah 2 :
 
 rm -rf setup.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt install curl && wget https://raw.githubusercontent.com/YakkoRasZ14/gaspoll/main/setup.sh && apt update && apt install dos2unix && dos2unix setup.sh && chmod +x setup.sh && ./setup.sh
 
-# For Your Information
+# Crot
 
-For :
+For Crot :
 - Debian 9 & Debian 10 64 bit
 - Ubuntu 18.04 & Ubuntu 20.04 64 bit
-- VPS with KVM and VMWare virtualization
-
-Thanks To :
-- Allah SWT
-- My Family   
-- Tegar Prayuda
-- Team Provider Exploit    
-- Horass
-- AkbarSSH
-- SSH Sedang
-- Wildy Project
-- Maintenancez
-- Geo
-
-Info :
-- Rebuild By YakkoXCode
-- Contact : t.me/YakkoXCode        
-- Whatsapp : 083803284713
-# gaspoll
-# gaspoll
